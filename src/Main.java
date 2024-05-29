@@ -45,11 +45,5 @@ public class Main {
         System.out.println("\n----------- Turma 3 -----------");
         System.out.println(turma3);
         turma3.listarAlunos();
-
-        System.out.println("\n--- Pagamento de mensalidade ---");
-
-        aluno1.pagarMensalidade();
-        aluno2.pagarMensalidade();
-        aluno3.pagarMensalidade();
     }
 }
