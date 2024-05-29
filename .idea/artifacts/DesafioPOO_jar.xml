@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="DesafioPOO:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DesafioPOO_jar</output-path>
+    <root id="archive" name="DesafioPOO.jar">
+      <element id="module-output" name="DesafioPOO" />
+    </root>
+  </artifact>
+</component>
